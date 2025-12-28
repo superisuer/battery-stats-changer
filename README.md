@@ -21,3 +21,6 @@ There are several ways to do this:
 Since this app was made in Sketchware Pro, I recommend compiling it in Sketchware Pro. You can find the SWB file for Sketchware Pro in the Releases tab.
 
 For Android Studio, simply clone the repo, open it there, and build.
+## Releases
+Latest release can be find [here](https://github.com/superisuer/battery-stats-changer/releases).
+For all releases, I include an APK file with a test signature and a SWB file for those who want to open the project in Sketchware Pro.
