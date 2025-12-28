@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">Battery Stats Changer</string>
+    <string name="root">Root</string>
+    <string name="shizuku">Shizuku</string>
+    <string name="apply">Применить</string>
+    <string name="reset">Сбросить</string>
+    <string name="about">BSC (Battery Stats Changer) is modern app to change battery stats with root access or Shizuku. All changed stats resets after reboot.</string>
+    <string name="percent_hint">Процент</string>
+    <string name="percentage_warn">Система может выключить ваш телефон, если вы установите меньше чем 1%.</string>
+    <string name="charging">Зарядка</string>
+    <string name="charging_warn">После переключения, ваша система будет думать, что к устройству подключено зарядное устройство.</string>
+    <string name="capacity">Емкость (mAh)</string>
+    <string name="capacity_warn">Изменяет текущую ёмкость батареи, которая посчитана системой на ваше значение.</string>
+    <string name="temperature_warn">Установка слишком больших значений может выключить ваш телефон.</string>
+    <string name="method">Метод работы:</string>
+    <string name="basic_battery">Стандартная батарея</string>
+    <string name="oplu_battery">Батарея OPLUS</string>
+    <string name="failed_work">Не удалось проверить, что вами выбранный метод работы работает на самом деле. Вы выдали разрешения приложению?</string>
+    <string name="frozen">❄️ Ваша информация о батарее заморожена. Чтобы разморозить, нажмите на кнопку сброса!!!</string>
+    <string name="github">Репозиторий на GitHub</string>
+    <string name="telegram_channel">Мой ТГК</string>
+    <string name="settings">Настройки</string>
+    <string name="no_settings">я ещё не придумал настройки &lt;3</string>
+</resources>

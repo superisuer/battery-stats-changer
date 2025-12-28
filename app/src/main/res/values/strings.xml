@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">Battery Stats Changer</string>
+    <string name="root">Root</string>
+    <string name="shizuku">Shizuku</string>
+    <string name="apply">Apply</string>
+    <string name="reset">Reset</string>
+    <string name="about">BSC (Battery Stats Changer) is modern app to change battery stats with root access or Shizuku. All changed stats resets after reboot.</string>
+    <string name="percent_hint">Percentage</string>
+    <string name="percentage_warn">Setting values less than one may turn off your device.</string>
+    <string name="charging">Charging</string>
+    <string name="charging_warn">After switching, the system will think that your device is charging.</string>
+    <string name="capacity">Capacity (mAh)</string>
+    <string name="capacity_warn">Replaces the battery capacity calculated by the system with your value.</string>
+    <string name="temperature_warn">Setting the temperature to high values ​​may shut down your device.</string>
+    <string name="method">Working method:</string>
+    <string name="basic_battery">Basic Battery</string>
+    <string name="oplu_battery">OPLUS Battery</string>
+    <string name="failed_work">Failed to check the functionality of your selected method.</string>
+    <string name="frozen">❄️ Your battery information is frozen. To unfreeze it, you need to press the reset button!!!</string>
+    <string name="settings">Settings</string>
+    <string name="no_settings">there are no settings here yet &lt;3</string>
+    <string name="github">GitHub Repository</string>
+    <string name="telegram_channel">My Telegram Channel</string>
+</resources>
