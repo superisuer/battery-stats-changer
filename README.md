@@ -17,6 +17,8 @@ There are several ways to do this:
 1. Execute in shell `dumpsys battery reset`.
 2. Press "Reset" button in my app.
 3. Reboot your device.
+## Where can this be useful?
+✨There's a lot of ideas, but for example, you could take screenshots like "Look at my weird battery!" or if you have 1% left, you could change the percentage and add at least 1 extra minute before your phone get off.
 ## Building
 Since this app was made in Sketchware Pro, I recommend compiling it in Sketchware Pro. You can find the SWB file for Sketchware Pro in the Releases tab.
 
